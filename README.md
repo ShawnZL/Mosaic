@@ -1,5 +1,5 @@
 ![title](images/title_stripes.png)
-
+这个项目不是我做的，我只是在学习，原版作者是https://github.com/nuno-faria
 👷 Build images with images.
 
 
